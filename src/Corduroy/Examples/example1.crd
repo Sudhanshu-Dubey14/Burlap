@@ -1,7 +1,0 @@
-line
-element-type = beam 
-start        = (0,0,0)    
-end          = (5,5,5)    
-number       = 20
-
-end

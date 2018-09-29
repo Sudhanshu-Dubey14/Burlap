@@ -1,0 +1,2 @@
+/usr/bin/ar cr libgen.a  CMakeFiles/gen.dir/brick_grid.cpp.o CMakeFiles/gen.dir/coalesce.cpp.o CMakeFiles/gen.dir/grid.cpp.o CMakeFiles/gen.dir/line.cpp.o CMakeFiles/gen.dir/quad_grid.cpp.o CMakeFiles/gen.dir/rules.cpp.o CMakeFiles/gen.dir/trimesh.cpp.o CMakeFiles/gen.dir/triangle.c.o
+/usr/bin/ranlib libgen.a
